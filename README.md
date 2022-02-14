@@ -1,5 +1,5 @@
 # Quiz-App-
-Quiz-App-
+Fully Functional Quiz App With Animations
 
 
 
